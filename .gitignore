@@ -6,3 +6,8 @@ Thumbs.db
 /target
 /node_modules
 /dist
+
+**/*.rs.bk
+bin/
+pkg/
+wasm-pack.log
